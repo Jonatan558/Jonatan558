@@ -2,7 +2,15 @@
 Hoje Estudo Programação 👨‍💻
 Faço Faculdade em TI 🎓
 Focado na Linguagem PYTHON 🐍
-Estudando Frameworks e Linguagens: Java,CSS,C++,HTML,DJANGO,JAVASCRIPT E SQL 🤓
+Estudando Frameworks e Linguagens: 
+✔Java
+✔CSS
+✔C++
+✔HTML
+✔DJANGO
+✔JAVASCRIPT
+✔SQL 
+🤓
 
 <div align="center">
   <a href="https://github.com/Jonatan-">
